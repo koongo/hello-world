@@ -1,2 +1,2 @@
 # hello-world
-a demo repository
+Hello, everyone!
